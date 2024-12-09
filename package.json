@@ -2,9 +2,13 @@
   "name": "tranquil-light-purple",
   "displayName": "Tranquil Light Purple",
   "description": "Calm and readable light purple theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ROMANSYNTAX32/tranquility-theme.git"
+  },
   "author": {
     "name": "Moonie Wentz",
-    "email": ""
+    "email": "rmsyntaxcontact@gmail.com"
   },
   "version": "0.0.1",
   "engines": {
