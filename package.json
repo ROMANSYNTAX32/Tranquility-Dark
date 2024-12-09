@@ -1,0 +1,25 @@
+{
+  "name": "tranquil-light-purple",
+  "displayName": "Tranquil Light Purple",
+  "description": "Calm and readable light purple theme",
+  "author": {
+    "name": "Moonie Wentz",
+    "email": ""
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tranquil Purple - Light",
+        "uiTheme": "vs",
+        "path": "./themes/light-theme.json"
+      }
+    ]
+  }
+}
